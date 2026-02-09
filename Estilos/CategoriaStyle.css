@@ -1,2 +1,39 @@
 ﻿body {
+   
+}
+
+.formulario {
+    background-color: #ffffff;
+    margin-bottom: 500px;
+    color: #312C85;
+    padding: 20px;
+    width: 100%;
+    max-width: 500px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.caja-texto {
+    width: 100%;
+    padding: 15px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+
+h1 {
+    text-align: center;
+    color: #312C85;
+    font-size: 40px;
+}
+
+.botonAgregar {
+    width: 40%;
+    padding: 5px;
+    background-color: #BEDBFF;
+    color: black;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
 }
